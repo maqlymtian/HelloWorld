@@ -2,4 +2,4 @@
 a test repository
 
 Hello, Shan Xue,
-I always loved you, but now I am not so convinced.
+I always loved you, but now I am not so convinced..
